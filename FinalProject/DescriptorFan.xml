@@ -1,0 +1,6 @@
+<obj>
+	<str name="type" val="Fan_Sensor"/>
+	<str name="location" val="Home"/>
+	<str name="appId" val="Fan"/>
+	<op name="getValue" href="gscl/applications/Fan/containers/DATA/contentInstances/latest/content" in="obix:Nil" out="obix:Nil" is="retrieve"/>
+</obj>

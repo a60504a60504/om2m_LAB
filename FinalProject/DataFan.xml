@@ -1,0 +1,5 @@
+<obj>
+    <str name="appId" val="Fan" />
+    <str name="category" val="Wind intensity" />
+    <int name="data" val="1" />
+</obj>

@@ -1,0 +1,6 @@
+<obj>
+    <str name="appId" val="Thermometer" />
+    <str name="category" val="temperature" />
+    <int name="data" val="23" />
+    <int name="unit" val="celsius" />
+</obj>

@@ -1,0 +1,7 @@
+<om2m:application xmlns:om2m="http://uri.etsi.org/m2m" appId="Thermometer">
+	<om2m:searchStrings>
+		<om2m:searchString>Type/sensor</om2m:searchString>
+		<om2m:searchString>Category/temperature</om2m:searchString>
+		<om2m:searchString>Location/Home</om2m:searchString>
+	</om2m:searchStrings>
+</om2m:application>
